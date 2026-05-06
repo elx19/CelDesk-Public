@@ -27,6 +27,13 @@ Publicacion de prueba de **CelDesk** para instalacion en Windows.
 3. Completa la instalacion.
 4. CelDesk abrira el navegador automaticamente y realizara la configuracion inicial local.
 
+## Acceso inicial
+
+- Correo por defecto: `admin@gmail.com`
+- Contrasena por defecto: `12345`
+
+> Recomendacion: cambia la contrasena despues del primer inicio si vas a seguir usando la instalacion.
+
 ## Notas
 
 - Esta publicacion es solo para **descarga y pruebas**.
