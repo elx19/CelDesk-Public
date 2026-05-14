@@ -1,15 +1,17 @@
-# CelDesk Setup v1.3.4
+# CelDesk Setup v1.3.6
 
 Publicacion de prueba de **CelDesk** para instalacion en Windows.
 
 ## Descargar
 
-- [Descargar CelDesk_Public_Setup_v1.3.4.exe](https://github.com/elx19/CelDesk-Public/releases/download/v1.3.4/CelDesk_Public_Setup_v1.3.4.exe)
+- [Descargar CelDesk_Public_Setup_v1.3.6.exe](https://github.com/elx19/CelDesk-Public/releases/download/v1.3.6/CelDesk_Public_Setup_v1.3.6.exe)
 
 ## Que incluye
 
 - Instalador completo para Windows x64
 - Configuracion local automatica en el primer inicio
+- Base local portable incluida dentro de la instalacion
+- Runtime local de WhatsApp incluido sin depender de Node.js manual
 - CelDeskTray integrado
 - Acceso directo de escritorio
 - Seleccion de idioma durante la instalacion
@@ -22,7 +24,7 @@ Publicacion de prueba de **CelDesk** para instalacion en Windows.
 
 ## Primer inicio
 
-1. Ejecuta `CelDesk_Public_Setup_v1.3.4.exe`.
+1. Ejecuta `CelDesk_Public_Setup_v1.3.6.exe`.
 2. Selecciona el idioma y acepta el acuerdo de licencia.
 3. Completa la instalacion.
 4. CelDesk abrira el navegador automaticamente y realizara la configuracion inicial local.
@@ -42,7 +44,7 @@ Publicacion de prueba de **CelDesk** para instalacion en Windows.
 
 ## Hash SHA-256
 
-`41A8538F4ACE6ACD0479A3CFFD9638CC5DF0C518FCA1DCB440809DE38490A6DE`
+`B6DB0594F8736830AED46EACA38B5555522C432D436B923CE0054B8F3D644BBB`
 
 ## Capturas
 
