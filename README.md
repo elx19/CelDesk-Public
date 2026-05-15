@@ -1,10 +1,10 @@
-# CelDesk Setup v1.3.8
+# CelDesk Setup v1.3.9
 
 Publicacion de prueba de **CelDesk** para instalacion en Windows.
 
 ## Descargar
 
-- [Descargar CelDesk_Public_Setup_v1.3.8.exe](https://github.com/elx19/CelDesk-Public/releases/download/v1.3.8/CelDesk_Public_Setup_v1.3.8.exe)
+- [Descargar CelDesk_Public_Setup_v1.3.9.exe](https://github.com/elx19/CelDesk-Public/releases/download/v1.3.9/CelDesk_Public_Setup_v1.3.9.exe)
 
 ## Que incluye
 
@@ -24,7 +24,7 @@ Publicacion de prueba de **CelDesk** para instalacion en Windows.
 
 ## Primer inicio
 
-1. Ejecuta `CelDesk_Public_Setup_v1.3.8.exe`.
+1. Ejecuta `CelDesk_Public_Setup_v1.3.9.exe`.
 2. Selecciona el idioma y acepta el acuerdo de licencia.
 3. Completa la instalacion.
 4. CelDesk abrira el navegador automaticamente y realizara la configuracion inicial local.
@@ -44,7 +44,7 @@ Publicacion de prueba de **CelDesk** para instalacion en Windows.
 
 ## Hash SHA-256
 
-`08C397D5EEF035FA9D554F8E296544C09BEFE36EC78128E715B5D7598711772D`
+`9ECFAF35C0BEF06C8B779043BDCF9285BAC8876576BC9393A5793D230CB72318`
 
 ## Capturas
 
